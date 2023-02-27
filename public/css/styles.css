@@ -1,0 +1,130 @@
+body{
+  /* background-image: linear-gradient(to right, #5DFDCB, #90D7FF); */
+  background: radial-gradient(circle at 10% 20%, rgb(255, 229, 168) 0%, rgb(251, 174, 222) 100.7%);
+}
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #E97777;
+  background-color: #DEF5E5;
+}
+h4{
+  font-family: 'Recursive', sans-serif;
+}
+.logo{
+  height:120px;
+  width:120px;
+}
+#jumbotron-centered{
+  /* background-image: linear-gradient(to right, #5DFDCB, #90D7FF); */
+  background: radial-gradient(circle at 10% 20%, rgb(255, 229, 168) 0%, rgb(251, 174, 222) 100.7%);
+}
+#welcome{
+  font-family: 'Pacifico', cursive;
+}
+#para{
+font-family: 'Playfair Display', serif;
+}
+.full {
+    width: 100%;
+    float: left;
+}
+
+p.large {
+    font-size: 2rem !important;
+    color: #222;
+    font-weight: 200;
+}
+p.large {
+    margin-bottom: 30px;
+    font-size: 2rem !important;
+    line-height: 28px;
+    color: #252626;
+    font-weight: 300;
+    margin-top: 5px;
+}
+.heading_s1 h2 {
+    font-size: 60px;
+    color: #252323;
+    font-weight: 400;
+    line-height: 55px;
+    width: auto;
+}
+
+.heading_s2 h2::first-letter {
+    color: #3A1078;
+    font-size: 100px;
+    font-weight: 700;
+}
+.heading_s4 h2 {
+    font-size: 60px;
+    color: #252323;
+    font-weight: 400;
+    line-height: 55px;
+    width: auto;
+}
+
+.heading_s4 h2::first-letter {
+    color: #EAFDFC !important;
+    font-size: 100px;
+    font-weight: 700;
+}
+.heading_s2 h2 {
+    font-size: 60px;
+    color: #252323;
+    font-weight: 400;
+    line-height: 55px;
+    width: auto;
+}
+.heading_s1 h2::first-letter {
+    color: #72dd78;
+    font-size: 100px;
+    font-weight: 700;
+}
+.heading_s3 h2::first-letter {
+    color: #F2CD5C;
+    font-size: 100px;
+    font-weight: 700;
+}
+.heading_s3 h2 {
+    font-size: 60px;
+    color: #252323;
+    font-weight: 400;
+    line-height: 55px;
+    width: auto;
+}
+
+
+#disfont{
+  font-family:'Permananent Marker', cursive;
+}
+
+.heading_s2 h2 {
+    font-size: 50px;
+    font-weight: 600;
+}
+.heading_s5 h2::first-letter {
+    color: #21E1E1;
+    font-size: 100px;
+    font-weight: 700;
+}
+.heading_s5 h2 {
+    font-size: 60px;
+    color: #252323;
+    font-weight: 400;
+    line-height: 55px;
+    width: auto;
+}
+
+.cours + h3 {
+    margin-top: 30px;
+    font-size: 28px;
+}
+.cours img {
+    max-width: 70%;
+}
