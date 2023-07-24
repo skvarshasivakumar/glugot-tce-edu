@@ -1,0 +1,128 @@
+    <div class="row" id="sample">
+            <div style="margin-bottom:30px;" class="full heading_s2">
+              <center>
+                <h2 id="welcome">Network Guru Seniors</h2>
+              </center>
+            </div>
+            <div class="col-md-4 text_align_center">
+              <div class="cours">
+                <img class="img-responsive" src="css/vignesh.png" alt="#" />
+              </div>
+              <h3>Vignesh R</h3>
+              <p>A 3rd year student has won First Prize</p>
+            </div>
+
+            <div class="col-md-4 text_align_center">
+              <div class="cours">
+                <img class="img-responsive" src="css/srinidhi.png" alt="#" />
+              </div>
+              <h3>Srinidhi Ranjith</h3>
+              <p>A 3rd year student has won Second Prize</p>
+            </div>
+            <div class="col-md-4 text_align_center">
+              <div class="cours">
+                <img class="img-responsive" src="css/nivi.png" alt="#" />
+              </div>
+              <h3>Naga Nivedithaa G</h3>
+              <p>A 3rd year student has won Third Prize</p>
+            </div>
+
+
+          </div>
+          <br><br><br>
+          <div class="row" id="sample">
+            <div style="margin-bottom:30px;" class="full heading_s2">
+              <center>
+                <h2 id="welcome">Network Guru Juniors</h2>
+              </center>
+            </div>
+            <div class="col-md-4 text_align_center">
+              <div class="cours">
+                <img style="width:100%;" class="img-responsive" src="css/lakshana.png" />
+              </div>
+              <h3>Lakshana</h3>
+              <p>A 2nd year student has won First Prize</p>
+            </div>
+
+            <div class="col-md-4 text_align_center">
+              <div class="cours">
+                <img class="img-responsive" src="css/guga.png" />
+              </div>
+              <h3>Guga Priya</h3>
+              <p>A 1st year student has won Second Prize</p>
+            </div>
+
+            <div class="col-md-4 text_align_center">
+              <div class="cours">
+                <img class="img-responsive" src="css/kaarthik.png" alt="#" />
+              </div>
+              <h3>Kaarthik Raamanathan</h3>
+              <p>A 2nd year student has won Third Prize</p>
+            </div>
+
+
+          </div>
+          <br><br><br>
+          <div class="row" id="sample">
+            <div style="margin-bottom:30px;" class="full heading_s4">
+              <center>
+                <h2 id="welcome">Ultimate Star</h2>
+              </center>
+            </div>
+            <div class="col-md-4 text_align_center">
+              <div class="cours">
+                <img class="img-responsive" src="css/raash.png" alt="#" />
+              </div>
+              <h3>Raasheedhaa Shameem</h3>
+              <p>A 3rd year student has won First Prize</p>
+            </div>
+
+            <div class="col-md-4 text_align_center">
+              <div class="cours">
+                <img class="img-responsive" src="css/shree.png" alt="#" />
+              </div>
+              <h3>Shree Harini K M</h3>
+              <p>A 2nd year student has won Second Prize</p>
+            </div>
+
+            <div class="col-md-4 text_align_center">
+              <div class="cours">
+                <img class="img-responsive" src="css/srinidhi.png" alt="#" />
+              </div>
+              <h3>Srinidhi Ranjith</h3>
+              <p>A 3rd year student has won Third Prize</p>
+            </div>
+
+          </div>
+          <br><br><br>
+          <div class="row" id="sample">
+            <div style="margin-bottom:30px;" class="full heading_s5">
+              <center>
+                <h2 id="welcome">DB DON</h2>
+              </center>
+            </div>
+            <div class="col-md-4 text_align_center">
+              <div class="cours">
+                <img class="img-responsive" src="css/nivi.png" alt="#" />
+              </div>
+              <h3>Naga Nivedithaa G</h3>
+              <p>A 3rd year student has won First Prize</p>
+            </div>
+
+            <div class="col-md-4 text_align_center">
+              <div class="cours">
+                <img class="img-responsive" src="css/swathi.png" alt="#" />
+              </div>
+              <h3>Swathi R</h3>
+              <p>A 3rd year student has won Second Prize</p>
+            </div>
+
+            <div class="col-md-4 text_align_center">
+              <div class="cours">
+                <img class="img-responsive" src="css/sabarish.png" alt="#" />
+              </div>
+              <h3>Sri Sabarish T</h3>
+              <p>A 2nd year student has won Third Prize</p>
+            </div>
+
+          </div>
