@@ -60,7 +60,17 @@ app.post("/register",function(req,res){
     }
   });
 });
+app.get('/usersList', function(req, res) {
+  association.find({}, function(err, users) {
+    var userMap = {};
 
+    users.forEach(function(user) {
+      userMap[user._id] = user;
+    });
+
+    res.send(userMap);  
+  });
+});
 
 app.get("/submit",function(req,res){
 res.render("submit");
